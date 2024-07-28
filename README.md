@@ -1,4 +1,4 @@
-<img src="https://shawn.digital/assets/img/shawn1.gif" />
+<img src="https://thepartridge.net/assets/img/shawn1.gif" />
 
 <!--
 **shaaaaawn/shaaaaawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
